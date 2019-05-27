@@ -1,2 +1,2 @@
-# Logo Usage Policy
-> This content now lives at [sailsjs.com/logo-usage](https://sailsjs.com/logo-usage)
+# Política de Uso da Logo
+> Este conteúdo agora vive em [sailsjs.com/logo-usage](https://sailsjs.com/logo-usage)
