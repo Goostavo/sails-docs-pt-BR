@@ -1,3 +1,3 @@
-> The FAQ is still in this repo, but now lives in [`faq/faq.md`](/faq/faq.md).
+> Este FAQ permanece nesse repositório, mas agora disponibilizado em [`faq/faq.md`](/faq/faq.md).
 >
-> You can also see it live on the Sails website at [https://sailsjs.com/faq](https://sailsjs.com/faq).
+> Você pode ver também disponibilizado no site de Sails em [https://sailsjs.com/faq](https://sailsjs.com/faq).
