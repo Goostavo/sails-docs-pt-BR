@@ -1,5 +1,5 @@
 # package.json
 
-This is a standard configuration file for [npm](https://npmjs.org/doc/json.html). Among other things, this file contains the name and version of all of the Node Modules that your app depends on to run.  You can change this manually but be careful to adhere to their rules or things might break.
+Esta é o arquivo de configuração padrão para o [npm](https://npmjs.org/doc/json.html). Além de outras coisas, esse arquivo contém o nome e a versão de todos os Módulos Node que sua aplicação depende para executar. Você pode mudar isso manualmente mas tome cuidado para aderir às suas regras ou coisas talvez quebrem.
 
 <docmeta name="displayName" value="package.json">
