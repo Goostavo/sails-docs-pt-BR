@@ -1,8 +1,8 @@
 # .sailsrc
 
-This file is useful for setting configuration for ALL Sails apps on a computer.  You can also use it to extend the functionality of the Sails CLI tool.
+Este arquivo é útil para configurações de ajuste para TODAS aplicações Sails no computador. Você também pode usar para extender a funcionalidade da ferramenta CLI de Sails.
 
-You can learn more about using sailsrc files [here](https://sailsjs.com/documentation/concepts/configuration/using-sailsrc-files).
+Você pode ler mais sobre o uso de arquivos sailsrc [aqui](https://sailsjs.com/documentation/concepts/configuration/using-sailsrc-files).
 
 
 <docmeta name="displayName" value=".sailsrc">
