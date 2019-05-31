@@ -9,15 +9,17 @@ A oficial documentação para a atual versão estável de Sails está no [ramo m
 
 A documentação para Sails foi traduzida para um numero diferente de idiomas. A lista abaixo é referente a tradução de projetos que estamos cientes.
 
-| Idioma                     | [IETF Rótulo do Idioma](https://en.wikipedia.org/wiki/IETF_language_tag)  | Mantenedor(es)        | Repositório                               |
-| ---------------------------- | ------- | ------------------ | ---------------------------------- |
-| Japonês                     | `ja`    | [@kory-yhg](https://github.com/kory-yhg)      | [sails-docs-ja](https://github.com/balderdashy/sails-docs/tree/ja)
-| Espanhol                      | `es`    | [@eduartua](https://github.com/eduartua/) & [@alejandronanez](https://github.com/alejandronanez)   | [sails-docs-es](https://github.com/eduartua/sails-docs-es)
-| Português do Brasil         | `pt-BR` | [@marceloboeira](https://github.com/marceloboeira) & [@avlye](https://github.com/avlye)   | [sails-docs-pt-BR](https://github.com/balderdashy/sails-docs/tree/pt-BR)
-| Mandarim Taiwanês           | `zh-TW` | [@CalvertYang](https://github.com/CalvertYang)   | [sails-docs-zh-TW](https://github.com/balderdashy/sails-docs/tree/zh-TW)
-| Coreano                       | `ko`    | [@sapsaldog](https://github.com/sapsaldog)   | [sails-docs-ko](https://github.com/balderdashy/sails-docs/tree/ko)
-| Chinês                      | `zh-cn`    | [@linxiaowu66](https://github.com/linxiaowu66)   | [sails-docs-zh-cn](https://github.com/linxiaowu66/sails-docs-zh-cn)
-| Francês                       | `fr`    | [@marrouchi](https://github.com/marrouchi)   | [sails-docs-fr](https://github.com/marrouchi/sails-docs-fr)
+| Idioma                     | [Rótulo de Idioma IETF](https://en.wikipedia.org/wiki/IETF_language_tag)  | Versão |  Mantenedor(es)        | Repositório                               |
+| ---------------------------- | ------- | ------- | ------------------ | ---------------------------------- |
+| Japonês                     | `ja`    | v0.11.x | [@kory-yhg](https://github.com/kory-yhg)      | [sails-docs-ja](https://github.com/balderdashy/sails-docs/tree/ja)
+| Espanhol                      | `es`    | v0.12.x | [@eduartua](https://github.com/eduartua/) & [@alejandronanez](https://github.com/alejandronanez)   | [sails-docs-es](https://github.com/eduartua/sails-docs-es)
+| Português do Brasil         | `pt-BR` | v1.0.x  | [@Avlye](https://github.com/Avlye) | [sails-docs-pt-BR](https://github.com/Avlye/sails-docs-pt-BR)
+|                              |         | v0.10.x | [@marceloboeira](https://github.com/marceloboeira)   | [sails-docs-pt-BR](https://github.com/balderdashy/sails-docs/tree/pt-BR)
+| Mandarim Taiwanês           | `zh-TW` | v0.10.x | [@CalvertYang](https://github.com/CalvertYang)   | [sails-docs-zh-TW](https://github.com/balderdashy/sails-docs/tree/zh-TW)
+| Coreano                       | `ko`    | v0.10.x | [@sapsaldog](https://github.com/sapsaldog)   | [sails-docs-ko](https://github.com/balderdashy/sails-docs/tree/ko)
+| Chinês                      | `zh-cn`    | v0.12.x | [@linxiaowu66](https://github.com/linxiaowu66)   | [sails-docs-zh-cn](https://github.com/linxiaowu66/sails-docs-zh-cn)
+| Francês                       | `fr`    | v0.12.x | [@marrouchi](https://github.com/marrouchi)   | [sails-docs-fr](https://github.com/marrouchi/sails-docs-fr)
+
 
 > Enquanto nós estamos usando ramos para manter diferente versões da documentação, nos afastamos da abordagem original de ramos para diferentes idiomas. Antes de embarcar com uma nova tradução do projeto, nós pedimos para que revise a [informação de atualização abaixo](#how-can-i-help-translate-the-documentation) -- o processo mudou um pouco.
 
