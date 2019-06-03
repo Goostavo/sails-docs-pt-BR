@@ -1,12 +1,12 @@
 # tasks/pipeline.js
 
-The `pipeline.js` file in your Sails app determines the order in which your stylesheets,
-JavaScript, and client-side template files should be compiled and linked as `<script>`
-or `<link>` tags.
+O arquivo `pipeline.js` em sua aplicação Sails determina a ordem que suas folhas de estilo, 
+JavaScript, e template do lado do cliente deverão ser compiladas e acopladas 
+como tags de `<script>` ou `<link>`.
 
-If you are not relying on [automatic asset linking](https://sailsjs.com/documentation/concepts/assets/task-automation#?asset-pipeline), then you can safely ignore this file.
+Se você não quer depender de um [acoplado de assets automático](https://sailsjs.com/documentation/concepts/assets/task-automation#?asset-pipeline), então você pode seguramente ignorar esse arquivo.
 
-> Note that you can take advantage of Grunt-style wildcard/glob/splat expressions for matching multiple files, and use `!` in front of an expression to ignore files.
+> Nota que você pode tomar vantagem das expressões wildcard/glob/splat dos estilos Grunt para corresponder a múltiplos arquivos, e usar `!` em frente das expressões para ignorar os arquivos.
 
 
 <docmeta name="displayName" value="pipeline.js">
