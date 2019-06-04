@@ -32,9 +32,9 @@ Executa a tarefa `build` (`tasks/register/build.js`).
 
 Executa a tarefa `buildProd` (`tasks/register/buildProd.js`).
 
-### Can I customize this for SASS, Angular, client-side Jade templates, etc?
+### Posso personalizar isto para SASS, Angular, templates lado do cliente em Jade, etc?
 
-You can modify, omit, or replace any of these Grunt tasks to fit your requirements. You can also add your own Grunt tasks- just add a `someTask.js` file in the `grunt/config` directory to configure the new task, then register it with the appropriate parent task(s) (see files in `grunt/register/*.js`).
+Você pode modificar, omitir, ou trocar qualquer uma dessas tarefas Grunt que encaixem seus requisitos. Você pode também adicionar tarefas Grunt- apenas adicione um arquivo `algumaTask.js` no diretório `grunt/config` para configurar uma nova tarefa, então registre a(s) tarefa(s) pai apropriadas (veja os arquivos em `grunt/register/*.js`).
 
 
 ### Do I have to use Grunt?
@@ -55,9 +55,9 @@ If you still want to use Grunt for other purposes, but don't want any of the def
 > If you know you'll _never_ need any kind of web frontend, you can also [generate a new Sails app with `--no-frontend` at all](https://sailsjs.com/documentation/reference/command-line-interface/sails-new).
 
 
-### More info
+### Mais informações
 
-> More information on using Grunt to work with static assets: http://gruntjs.com/configuring-tasks
+> Mais informações sobre o uso de Grunt para trabalhar com assets estáticos: http://gruntjs.com/configuring-tasks
 
 
 
