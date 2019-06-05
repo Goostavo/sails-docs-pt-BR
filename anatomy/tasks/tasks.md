@@ -37,22 +37,21 @@ Executa a tarefa `buildProd` (`tasks/register/buildProd.js`).
 Você pode modificar, omitir, ou trocar qualquer uma dessas tarefas Grunt que encaixem seus requisitos. Você pode também adicionar tarefas Grunt- apenas adicione um arquivo `algumaTask.js` no diretório `grunt/config` para configurar uma nova tarefa, então registre a(s) tarefa(s) pai apropriadas (veja os arquivos em `grunt/register/*.js`).
 
 
-### Do I have to use Grunt?
+### Tenho que usar Grunt?
 
-Nope!  The Sails core team has used Grunt on real-world projects for upwards of 4 years now, and overall it's been a fantastic tool.  But we realize it's not for everyone.  To disable Grunt integration in Sails, just delete your Gruntfile or [disable the Grunt hook](https://sailsjs.com/documentation/concepts/assets/disabling-grunt).
+Nope! O time principal de Sails tem usado Grunt em projetos do mundo real a cerca de 4 anos, e em geral está sendo uma ferramenta fantástica. Mas percebemos que não é para todo mundo. Para desabilitar a integração Grunt em Sails, apenas delete seu Gruntfile ou [desabilite o hook de Grunt](https://sailsjs.com/documentation/concepts/assets/disabling-grunt).
 
-> You can also [generate a new Sails app `--without=grunt`](https://sailsjs.com/documentation/reference/command-line-interface/sails-new).
+> Você também pode [gerar uma nova aplicação Sails sem Grunt através do parâmetro `--without=grunt`](https://sailsjs.com/documentation/reference/command-line-interface/sails-new).
 
+### Se eu não estiver construindo um frontend web?
 
-### What if I'm not building a web frontend?
+Tudo bem! Um inquilido principal de Sails é agonóstidade de cliente-- é especialmente desenhado para construir APIs usadas para todos tipos de clientes; Android/iOS/Cordova nativos, SDKs do lado do servidor, etc.
 
-That's ok! A core tenant of Sails is client-agnosticism-- it's especially designed for building APIs used by all sorts of clients; native Android/iOS/Cordova, serverside SDKs, etc.
+Você pode completamente desabilitar Grunt atráves das instruções [aqui](https://sailsjs.com/documentation/concepts/assets/disabling-grunt).
 
-You can completely disable Grunt by following the instructions [here](https://sailsjs.com/documentation/concepts/assets/disabling-grunt).
+Se você ainda deseja usar Grunt para outros propósitos, mas não quer quaisquer front-end web padrão, apenas delete seu diretório `assets` de seu projeto e remova o front-end orientado a tarefas do diretório `grunt/register` e `grunt/config`. Você também pode executar `sails new myCoolApi --no-frontend` para omitir a pasta de `assets` e front-end orientado a tarefas Grunt de futuros projetos. Você também pode trocar seu módulo `sails-generate-frontend` com um gerador alternativo da comunidade, ou criar seu próprio. Isto permite `sails new` criar um boilerplate de apps iOS nativos, apps Android, apps Cordova, apps SteroidsJS, etc.
 
-If you still want to use Grunt for other purposes, but don't want any of the default web front-end stuff, just delete your project's `assets` folder and remove the front-end oriented tasks from the `grunt/register` and `grunt/config` folders.  You can also run `sails new myCoolApi --no-frontend` to omit the `assets` folder and front-end-oriented Grunt tasks for future projects.  You can also replace your `sails-generate-frontend` module with alternative community generators, or create your own.  This allows `sails new` to create the boilerplate for native iOS apps, Android apps, Cordova apps, SteroidsJS apps, etc.
-
-> If you know you'll _never_ need any kind of web frontend, you can also [generate a new Sails app with `--no-frontend` at all](https://sailsjs.com/documentation/reference/command-line-interface/sails-new).
+> Se você _nunca_ precisará de qualquer tipo de frontend web, você pode também [gerar uma aplicação com o parâmetro `--no-frontend`](https://sailsjs.com/documentation/reference/command-line-interface/sails-new).
 
 
 ### Mais informações
