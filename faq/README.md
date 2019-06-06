@@ -1,7 +1,7 @@
 # sails-docs/faq
 
-This section contains the contents that will live on sailsjs.com/faq.
+Esta seção contém conteúdos de tudo que vive em sailsjs.com/faq.
 
 
-### Notes
-> - This README file **is not compiled to HTML** for the website.  It is just here to explain what you're looking at.
+### Notas
+> - Este arquivo README **não será compilado em HTML** para o site.  É somente uma explicação do que está observando.
