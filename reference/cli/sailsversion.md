@@ -1,20 +1,20 @@
 # `sails version`
 
-Get the version of your computer's _globally_ installed Sails command-line tool (i.e. the version you installed with `npm install -g sails`).
+Para obter a versão da ferramenta de linha de comando de Sails instalada __globalmente__ em seu computador (ex. a versão instalada com `npm install -g sails`). 
 
 ```usage
 sails version
 ```
 
-### Example
+### Exemplo
 
 ```text
 $ sails version
 1.0.0
 ```
 
-### Notes
-> + Different Sails apps can have different local Sails installs at different versions, since each project encapsulates its dependencies in its `node_modules/` folder.  To get the _locally_ installed version of Sails from within a particular project, run `npm ls sails`.
+### Notas
+> + Diferentes aplicações em Sails podem ter diferente locais de instalação em versões diferentes, já que cada projeto encapsula as dependências em seu diretório `node_modules`. Para obter a versão de Sails instalada _localmente_ de um projeto em particular, execute `npm ls sails`.
 
 
 
