@@ -1,6 +1,6 @@
-# Sails.js Documentation > API Reference
+# Documentação Sails.js > Referência de API 
 
-> The contents of this file are overridden automatically during compilation (please do not edit manually!)
+> O conteúdo desse arquvi será reescrito automaticamente durante a compilação (por favor, não edite manualmente!)
 
-<docmeta name="displayName" value="API Reference: Table of Contents">
+<docmeta name="displayName" value="Referência de API: Tabela de Conteúdo">
 <docmeta name="isTableOfContents" value="true">
