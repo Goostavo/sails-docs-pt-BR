@@ -1,6 +1,6 @@
-# Sails.js Documentation > Core Concepts
+# Documentação Sails > Conceitos Principais
 
-> The contents of this file are overridden automatically during compilation (please do not edit manually!)
+> O conteúdo deste arquivo será reescrito automaticamente durante a compilação (por favor, não edite manualmente!)
 
-<docmeta name="displayName" value="Core Concepts: Table of Contents">
+<docmeta name="displayName" value="Conceitos Principais: Tabela de Conteúdo">
 <docmeta name="isTableOfContents" value="true">
