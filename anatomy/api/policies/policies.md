@@ -1,10 +1,10 @@
 # api/policies/
 
-This is the folder you will store your &ldquo;policy&rdquo; files in.  A policy file is a JavaScript file that contains what is essentially Express middleware for authenticating access to controller actions in your app.
+Esta é a pasta na qual você armazenará seus arquivos de &ldquo;política&rdquo;. Um arquivo policy é um arquivo JavaScript que contém o que é essencialmente o middleware Express para autenticar o acesso a ações do controlador no seu aplicativo.
 
-For example, if you want to make sure only authenticated admin users can access `http://yourapp.com/admin/dashboard`, this is the folder you would put that logic in.
+Como exemplo, se quiser ter certeza que apenas usuários administradores tenham acesso a `http://yourapp.com/admin/dashboard`, esta é a pasta em que você colocaria essa lógica.
 
-For more information about policies and how to use them in your app, see [Concepts > Policies](https://sailsjs.com/documentation/concepts/policies).
+Para mais informações sobre policies e como usá-las em sua aplicação, veja [Conceitos > Policies](https://sailsjs.com/documentation/concepts/policies).
 
 <docmeta name="displayName" value="policies">
 
