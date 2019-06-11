@@ -1,12 +1,12 @@
-## Grab An IRC Client
-Below you'll find some of the more popular IRC Clients.
+## Escolha um Cliente IRC
+Abaixo você encontrará alguns dos Clientes IRC mais populares.
 
 ### Linux
  - [xChat](http://xchat.org)
  - [irssi](http://irssi.org)
  - [weeChat](http://www.weechat.org)
 
-#### Using apt package manager for Ubuntu/Debian
+#### Usando gerenciador de pacotes apt para Ubuntu/Debian
 ```
 sudo apt-get install weechat
 
@@ -24,33 +24,33 @@ sudo steveJobsPM --prettyPlease install -m 'is this okay?' irssi
  - [hydra IRC](http://www.hydrairc.com/content/downloads)
  
 
-## Setting Up Your Client
-### Registering On Freenode
-Our chat room is on the Freenode network.  Freenode does not require that you register your `nick` name.  You do have the option to though.  If you want to do this, read about how to do it [on the freenode website](https://freenode.net/faq.shtml#registering)
+## Configurando seu Cliente
+### Registrando no Freenode
+Nossa sala de bate-papo está em rede Freenode. Freenode não requer que você registre seu `nick`. Você possui a opção de registrar. Se você quiser fazer isso, leia sobre como fazer [no site de freenode](https://freenode.net/faq.shtml#registering)
 
-### Getting on Freenode
+### Noções sobre o Freenode
 
-Each IRC Client is a little different to configure.  All of the ones we have recommended have very straight forward configuration process.  If your client provides a list of available servers, look for the one called Freenode.
+Cada Cliente IRC é um pouco diferente de configurar. Todos que recomendamos são bem direto ao ponto no processo de configuração. Se seu cliente provê uma lista de servidores disponíveis, procure por um chamado Freenode. 
 
-Make sure to put in a `nick` to go by.
+Tenha certeza de colocar um `nick` e siga em frente.
 
-Upon connecting to the Freenode network, join us by typing `/join #sailsjs`.
+Ao conectar na rede Freenode, junte-se a nós digitando `/join #sailsjs`.
 
-If you registered a nick, you can identify yourself with `/msg nickserv identify <password>`
+Se você registrou um nick, você pode se identificar através de `/msg nickserv identify <password>`
 
 
-## Getting help on IRC
+## Obtendo ajuda no IRC
 
-### `#sailsjs` on irc.freenode.net
-If you are looking for a quick answer and you can't find what you're looking for in the docs, come ask in our IRC chat room.  While there is typically somebody there who can answer your question, please remember that #sailsjs is 100% community maintained. That means that help is given at the discretion of the community.  For best results, be polite and to the point.
+### `#sailsjs` em irc.freenode.net
+Se você está procurando uma resposta rápida e você não pode encontrar na documentação, venha a nossa sala IRC. Enquanto geralmente há alguém que possa responder sua pergunta, por favor lembre-se que o #sailsjs é 100% mantido pela comunidade. Isso significa que a ajuda será dada a critério da comunidade. Para melhores resultados, seja educado e direto.
 
-If you've never been on IRC, now is the perfect time.  Getting started is easy.
+Se você nunca esteve em um IRC, agora é hora perfeita. Começar é fácil.
 
 
 ## Sails Troll
-Sails Troll is our resident IRC Bot.  His job is to write down what people say in case someone wants to find it later.
+Sails Troll é nosso presente Bot IRC. Seu trabalho é escrever o que as pessoas dizem em casos de alguém queira encontrá-lo mais tarde.   
 
-He also informs the room whenever someone pushes up a change to any of the repos in the Sails.js ecosystem.
+Ele também informa a sala sempre que alguém envia uma mudança para quaisquer repositório do ecossistema Sails.js.
 
 
-<docmeta name="displayName" value="#sailsjs on IRC">
+<docmeta name="displayName" value="#sailsjs em IRC">
