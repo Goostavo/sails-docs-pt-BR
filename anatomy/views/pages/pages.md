@@ -1,9 +1,9 @@
 # views/pages/
 
-This is the directory that holds the homepage, and any other page files you add to it.
+Este é o diretório que contém a página inicial, e quaisquer outros arquivos de página que você adicionar.
 
-This folder is mainly here for organizational purposes, to separate the page templates from layouts, error pages, etc.
+Esta pasta é principalmente aqui para propósitos de organização, separar templates de páginas de layouts, páginas de erro, etc.
 
 
-<docmeta name="displayName" value="pages">
+<docmeta name="displayName" value="páginas">
 
