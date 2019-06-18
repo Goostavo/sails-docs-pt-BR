@@ -1,11 +1,11 @@
 # Shell scripts
 
-Sails comes bundled with [Whelk](https://github.com/sailshq/whelk), which lets you run JavaScript functions as shell scripts. This can be useful for running scheduled jobs (cron, Heroku scheduler), worker processes, and any other custom, one-off scripts that need access to your Sails app's models, configuration, and helpers.
+Sails vem empacotado com [Whelk](https://github.com/sailshq/whelk), que permite executar funções JavaScript como shell scripts. Isso pode ser útil para executar tarefas agendadas (cron, agendador Heroku), processos worker, e qualquer outra personalização, scripts únicos que precisam de acesso aos modelos de sua aplicação Sails, configuração, e auxiliares.
 
 
-### Your first script
+### Seu primeiro script
 
-To add a new script, just create a file in the `scripts/` folder of your app.
+Para adicionar um novo script, apenas crie um arquivo no diretório `scripts/` de sua aplicação.
 
 ```bash
 sails generate script hello
