@@ -1,14 +1,14 @@
 # WebSockets
 
-For a full discussion of realtime concepts in Sails, see the [Realtime concept documentation](https://sailsjs.com/documentation/concepts/realtime).
+Para a discussão completa dos conceitos de tempo-real em Sails, veja a [documentação de conceito Realtime](https://sailsjs.com/documentation/concepts/realtime).
 
-For information on client-to-server socket communication, see the [Socket Client (sails.io.js)](https://sailsjs.com/documentation/reference/web-sockets/socket-client).
+Para informações da comunicação socket cliente-para-servidor, veja [Cliente Socket (sails.io.js)](https://sailsjs.com/documentation/reference/web-sockets/socket-client).
 
-For information on server-to-client socket communication, see the [sails.sockets](https://sailsjs.com/documentation/reference/web-sockets/sails-sockets).
+Para informações da comunicação socket servidor-para-cliente, veja [sails.sockets](https://sailsjs.com/documentation/reference/web-sockets/sails-sockets).
 
-For information on using realtime messages to communicate changes in Sails models, see the [Resourceful PubSub reference](https://sailsjs.com/documentation/reference/web-sockets/resourceful-pub-sub).
+Para informações no uso de mensagens em tempo-real para comunicar mudanças nos modelos Sails, veja [Referência Engenhosa PubSub](https://sailsjs.com/documentation/reference/web-sockets/resourceful-pub-sub).
 
-Sails uses [socket.io](http://socket.io) as the underlying engine for realtime communication.  Every Sails app has a socket.io instance available as `sails.io`.  However, most `socket.io` functionality is wrapped for convenience (and safety) by a `sails.sockets` method.
+Sails usa [socket.io](http://socket.io) como motor fundamental para comunicação em tempo-real. Toda aplicação Sails tem uma instância socket.io disponível como `sails.io`. Entretanto, maior funcionalidade de `socket.io` é envolvida por conveniência (e segurança) pelo método `sails.sockets`.
 
 <docmeta name="displayName" value="WebSockets">
 
