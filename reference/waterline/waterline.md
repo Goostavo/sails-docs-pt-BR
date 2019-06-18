@@ -1,12 +1,12 @@
 # Waterline (ORM)
 
-By default, new Sails apps are bundled with an ORM called [Waterline](http://waterlinejs.org) (implemented in the [sails-hook-orm](http://npmjs.com/package/sails-hook-orm) dependency).
+Por padrão, novas aplicações Sails são empacotadas com uma ORM chamada [Waterline](http://waterlinejs.org) (implementada na dependência [sails-hook-orm](http://npmjs.com/package/sails-hook-orm)).
 
-> To learn more about using Waterline, start in [Concepts > Models & ORM](https://sailsjs.com/documentation/concepts/models-and-orm).
+> Para aprender mais sobre uso de Waterline, comece em [Conceitos > Modelos & ORM](https://sailsjs.com/documentation/concepts/models-and-orm).
 
-### Reference
+### Referência
 
-This section of the documentation contains a reference of all of the methods available at runtime on [models](https://sailsjs.com/documentation/reference/waterline-orm/models), [queries](https://sailsjs.com/documentation/reference/waterline-orm/queries), and [datastores](https://sailsjs.com/documentation/reference/waterline-orm/datastores).
+Esta seção da documentação contém todas as referências de todos os métodos disponíveis em tempo de execução em [modelos](https://sailsjs.com/documentation/reference/waterline-orm/models), [consultas](https://sailsjs.com/documentation/reference/waterline-orm/queries), e [armazenamento de dados](https://sailsjs.com/documentation/reference/waterline-orm/datastores).
 
 
 
