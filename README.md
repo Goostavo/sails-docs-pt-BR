@@ -36,11 +36,11 @@ Segundamente, nós estamos abertos para sugestões sobre o processo que usamos p
 <!-- Com o lançamento da nova versão de Sails chegando, nós pedimos para que todas pull requests sejam feitas ao ramo `1.0`, até que o conteúdo da documentação 0.12 seja substituída no site principal. A única exceção é se você estiver documentando algo que não é relevante para Sails v1. -->
 
 Para fazer edições que sejam relevantes a versão estável de Sails (ex: a versão em [NPM](npmjs.org/package/sails)), você irá querer editar o ramo `master` _deste_ repositório (que você vê no repositório sails-docs por padrão). O time principal de Sails atualiza o master nos ramos apropriados para última versão estável de Sails, e assim disponibiliza em sobre de sailsjs.com uma vez por semana.
+ 
+ <!-- Isso depende de que tipo de edição você está fazendo. Mais comumente, você fará edições que são relevantes para última versão estável de Sails (como exemplo, a versão em [NPM](npmjs.org/package/sails)) e então queira editar o ramo `master` __desse__ repositório (que pode encontrar por padrão no repositório sails-docs). O time de documentação funde o master dentro do ramo apropriado para a última versão estável disponível de Sails, e então implementa no sailsjs.com uma vez por semana.
 
-<!-- That depends on what kind of edit you are making.  Most often, you'll be making an edit that is relevant for the latest stable version of Sails (i.e. the version on [NPM](npmjs.org/package/sails)) and so you'll want to edit the `master` branch of _this_ repo (what you see in the sails-docs repo by default).  The docs team merges master into the appropriate branch for the latest stable release of Sails, and then deploys that to sailsjs.com about once per week.
-
-On the other hand, if you are making an edit related to an unreleased feature in an upcoming version; most commonly as an accompaniment a feature proposal or open pull request to Sails or a related project, then you will want to edit the branch for the next, unreleased version of Sails (sometimes called "edge").
- -->
+Por outro lado, se você está editando recursos não disponíveis relacionados a próxima versão; mais comumente como acompanhamento uma proposta de recurso ou uma pull request aberta de Sails ou um projeto relacionado, então você deva querer editar o ramo de próximas versões disponíveis de Sails (algumas vezes chamada de "edge").
+-->
 
 | Ramo (em `sails-docs`)                                          | Documentação de Sails versão...                                                     | Acessível em...   |
 |:------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:-------------------|
