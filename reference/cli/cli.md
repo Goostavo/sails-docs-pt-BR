@@ -1,6 +1,6 @@
-# Command-line interface (CLI)
+# Interface de Linha de Comando (CLI)
 
-Sails comes with a convenient command-line tool to quickly get your app scaffolded and running. The CLI has commands for creating, starting, and debugging your Sails applications, as well as for getting your version info. For information about each command's usage, see the reference pages in this section.
+Sails vem com uma conveniente ferramenta de linha de comando para rapidamente deixar sua aplicação estabelecida e rodando. O CLI tem comandos para criar, começar, e debugar suas aplicações Sails, quanto também obter as informações de suas versões. Para informações sobre cada uso de comando, veja a página de referência nessa seção.
 
-<docmeta name="displayName" value="Command-line interface">
+<docmeta name="displayName" value="Interface de Linha de Comando">
 
