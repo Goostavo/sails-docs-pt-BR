@@ -1,6 +1,6 @@
 # assets/styles/
 
-This is where you will put all of the .css files that you would like to be statically hosted by your app.
+Aqui é onde você colocará todos os arquivos .css que você deseja ser estaticamente hospedadas por sua aplicação.
 
 
 <docmeta name="displayName" value="styles">
