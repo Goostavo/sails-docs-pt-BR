@@ -1,9 +1,8 @@
 # assets/images/
 
-This is where you should put image files that need to be statically hosted by your app.
+Aqui é onde você deve colocar seus arquivos de imagens que precissam ser estaticamente hospedadas por sua aplicação.
 
-Upon lifting your app, an image called `omgCat.jpg` could be found at `http://localhost:1337/images/omgCat.jpg`
-
+Ao levantar sua aplicação, uma imagem chamada `omgCat.jpg` poderá ser encontrada em `http://localhost:1337/images/omgCat.jpg`.
 
 
 <docmeta name="displayName" value="images">
