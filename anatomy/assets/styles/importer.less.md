@@ -1,10 +1,10 @@
 # assets/styles/importer.less
 
-By default, new Sails projects are configured to compile this file from LESS to CSS.  Unlike CSS files, LESS files are not compiled and included automatically unless they are imported here.
+Por padrão, novos projetos Sails são configurados para compilar esse arquivo de LESS para CSS. Diferente de outros arquivos CSS, arquivos LESS não são compilados e incluídos automaticamente ao menos que sejam importados aqui.
 
-The LESS files imported in this file are compiled and included in the order they are listed.  Mixins, variables, etc. should be imported first so that they can be accessed by subsequent LESS stylesheets.
+Os arquivos LESS importados neste arquivo são compilados e incluídos na medida que são listados. Mixins, variáveis, etc. devem ser importadas primeiro para que possam ser acessadas por páginas de estilo LESS subsequentes.
 
-(Just like the rest of the asset pipeline bundled in Sails, you can always omit, customize, or replace this behavior with SASS, SCSS, or any other Grunt tasks you like.)
+(Assim como o resto da pipeline de assets empacotada em Sails, você sempre omitir, personalizar, ou substituir esse comportamento com SASS, SCSS, ou quaisquer outras tarefas Grunt que quiser.) 
 
 
 <docmeta name="displayName" value="importer.less">
