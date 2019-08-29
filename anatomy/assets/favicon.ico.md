@@ -1,6 +1,6 @@
 # assets/favicon.ico
 
-This file is the [Favicon](http://en.wikipedia.org/wiki/Favicon) for your app.
+Este é o arquivo [Favicon](http://en.wikipedia.org/wiki/Favicon) de sua aplicação.
 
 
 <docmeta name="displayName" value="favicon.ico">
