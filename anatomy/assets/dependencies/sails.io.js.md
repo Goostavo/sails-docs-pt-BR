@@ -1,11 +1,10 @@
 # assets/dependencies/sails.io.js
 
+Este arquivo adiciona alguns métodos customizados para o socket.io, que fornecem funcionalidades "built-in" dos websockets para o Sails.
 
-This file adds a few custom methods to socket.io which provide the "built-in" websockets functionality for Sails.
+Especificamente, tais métodos que permite você enviar e receber mensagens Socket.IO para e de Sails simulando um cliente com interface REST no topo de Socket.IO. Ele modela sua API após o padrão $.ajax de jQuery que você talvez já esteja familiarizado.
 
-Specifically, those methods allow you to send and receive Socket.IO messages to and from Sails by simulating a REST client interface on top of Socket.IO. It models its API after the $.ajax pattern from jQuery which you might be familiar with.
-
-See the [Socket client reference](https://sailsjs.com/documentation/reference/web-sockets/socket-client) for more info about using the methods that this file provides.
+Veja a [referência de cliente Socket](https://sailsjs.com/documentation/reference/web-sockets/socket-client) para mais informações sobre o uso dos métodos que esse arquivo fornece.
 
 <docmeta name="displayName" value="sails.io.js">
 
