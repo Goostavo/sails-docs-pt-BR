@@ -1,9 +1,9 @@
 # config/local.js
 
-This file is used to specify configuration settings for use while developing the app on your personal system.
+Este arquivo é usado para especificar definições de configurações para utilizar ao desenvolver a aplicação em seu sistema pessoal.
 
-For more information, check out [Concepts > Configuration > The local.js file](https://sailsjs.com/docs/concepts/configuration/the-local-js-file)
+Para mais informações, veja [Conceitos > Configuração > O arquivo local.js](https://sailsjs.com/docs/concepts/configuration/the-local-js-file)
 
-> Since `config/local.js` is usually used to store sensitive credentials, it is included in your app's [.gitignore](https://sailsjs.com/documentation/anatomy/.gitignore), and isn't pushed to the remote server. If you click the link to this file below, you should see a 404 page; in this case, that's a _good_ thing!
+> Uma vez que `config/local.js` é usualmente usado para armazenar credênciais sensíveis, está incluído no [.gitignore](https://sailsjs.com/documentation/anatomy/.gitignore) de sua aplicação, e assim não será enviada para o servidor remoto. Se você clicar no link para este arquivo abaixo, deverá ver uma página 404, isso é uma _boa_ coisa!
 
 <docmeta name="displayName" value="local.js">
