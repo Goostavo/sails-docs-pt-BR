@@ -1,10 +1,10 @@
-# Contributing to Sails
+# Contribuindo para Sails
 
-This guide is designed to help you get off the ground quickly contributing to Sails.  Reading it thoroughly will help you write useful issues, make eloquent proposals, and submit top-notch code that can be merged quickly.  Respecting the guidelines laid out here helps make the core maintainers of Sails more productive, and makes the experience of working with Sails positive and enjoyable for the community at large.
+Esse guia é desenvolvido para ajudá-lo a decolar rapidamente, contribuindo com Sails. A leitura minuciosa o ajudará a escrever boas questões, fazer propostas eloquentes, e enviar código de primeira qualidade que pode ser mesclado rapidamente. Respeitando as orientações aqui apresentadas pelos mantenedores principais de Sails mais produtivos, e tornando a experiência de trabalhar com o Sails positiva e agradável para a comunidade em geral.
 
-If you are working on a pull request, **please carefully read the this guide in its entirety**. In case of doubt, [open an issue on GitHub](https://github.com/balderdashy/sails/issues/new) or contact someone from our [core team](https://sailsjs.com/about) on Twitter. Especially do so if you plan to work on something big. Nothing is more frustrating than seeing your hard work go to waste because your vision does not align with planned or ongoing development efforts of the project's maintainers.
+Se você está trabalhando com uma pull request, **por favor leia com bastante cuidado este guia em sua totalidade**. Em caso de dúvida, [abra uma pergunta no GitHub](https://github.com/balderdashy/sails/issues/new) ou contate alguém de nosso [time principal](https://sailsjs.com/about) no Twitter. Especialmente se planeja trabalhar em algo grande. Nada é mais frustrante que ter seu trabalho desperdiçado porque sua visão não se alinha aos esforços de desenvolvimento planejados ou em andamento dos mantenedores do projeto.  
 
-> Note that unless otherwise specified, the content in this section is either straight from the hearts of the Sails.js core team, or based on the [Node.js contribution guide](https://github.com/joyent/node/blob/master/CONTRIBUTING.md#contributing).
+> Note que ao menos que seja especificado de outra forma, o conteúdo dessa seção é direto dos corações da equipe principal do Sails.js, ou baseado no [guia de contribuição Node.js](https://github.com/joyent/node/blob/master/CONTRIBUTING.md#contributing).
 
-<docmeta name="displayName" value="Contributing to Sails">
+<docmeta name="displayName" value="Contribuindo para Sails">
 <docmeta name="isOverviewPage" value="true">
