@@ -1,13 +1,11 @@
 # api/controllers/
 
-This is the directory that holds your controllers.  In Sails, controllers are JavaScript files that contain logic for interacting with models and rendering appropriate views to the client.
+Este é o diretório que contém seus controllers. Em Sails, controllers são arquivos JavaScript que contém lógica para interar com os modelos e renderizar apropriadamente as views para o cliente.
 
-When you call `sails generate api cats` via the command line from inside your project's root directory, Sails will generate the file `api/controllers/CatsController.js` along with a matching model.
+Quando você chama `sails generate api cats` via linha de comando dentro do diretório principal de seu projeto, Sails irá gerar um arquivo `api/controllers/CatsController.js` junto ao model correspondente.
 
-The `api/controllers` directory can also contain _standalone actions_, which are JavaScript files containing a _single_ controller action, rather than a dictionary of actions.
+O diretório `api/controllers` também contém _ações standalone_, que são arquivos JavaScript contém uma _única_ ação de controle, ao invés de um dicionário de ações.
 
-See the [main actions and controllers documentation](https://sailsjs.com/documentation/concepts/actions-and-controllers) for more info.
+Veja a [documentação das ações e controllers principais](https://sailsjs.com/documentation/concepts/actions-and-controllers) para mais informações.
 
 <docmeta name="displayName" value="controllers">
-
-
