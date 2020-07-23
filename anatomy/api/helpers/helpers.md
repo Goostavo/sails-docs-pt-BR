@@ -1,10 +1,9 @@
 # api/helpers/
 
-This is the directory that holds your helpers.  In Sails, helpers are shared functions that can be called from anywhere in your app.
+Este é o diretório que contém seus helpers. Em Sails, helpers são funções compartilhadas que podem ser chamadas de qualquer lugar em sua aplicação.
 
-When you call `sails generate helper tickle-user` via the command line from inside your project's root directory, Sails will generate the file `api/helpers/tickle-user.js`, with a skeleton helper file to get you started.
+Quando você chama `sails generate helper tickle-user` via linha de comando dentro do diretório principal de seu projeto, Sails gerará o arquivo `api/helpers/tickle-user.js`, com o esqueleto de um arquivo helper para você começar.
 
-See the [main helpers documentation](https://sailsjs.com/documentation/concepts/helpers) for more info.
-
+Veja a [documentação dos principais helpers](https://sailsjs.com/documentation/concepts/helpers) para mais informações.
 
 <docmeta name="displayName" value="helpers">
