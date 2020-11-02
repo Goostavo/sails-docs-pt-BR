@@ -1,15 +1,14 @@
-# Security
+# Segurança
 
-### Overview
+### Visão geral
 
-Sails and Express provide built-in, easily configurable protection against most known types of web-application-level attacks.
+Sails e Express fornecem proteção integrada e facilmente configurável contra a maioria dos tipos conhecidos de ataques em nível de aplicação web.
 
-> **Note**: If you believe you have found a security vulnerability in Sails, please refer to our [security policy](https://github.com/balderdashy/sails-docs/blob/master/security/SAILS-SECURITY-POLICY.md) for instructions for reporting it.
+> **Note**: Se você acredita que encontrou uma vulnerabilidade de segurança no Sails, consulte nossa [política de segurança](https://github.com/balderdashy/sails-docs/blob/master/security/SAILS-SECURITY-POLICY.md) para instruções para relatá-lo.
 
+### Tópicos de segurança
 
-### Security topics
-
-Learn about several different types of attacks that Node.js/Sails helps prevent out of the box, and how to enable and configure security settings in your app:
+Aprenda sobre vários tipos diferentes de ataques que o Node.js/Sails ajuda a evitar imediatamente e como habilitar e definir as configurações de segurança em sua aplicação:
 
 + [CORS](https://sailsjs.com/documentation/concepts/security/cors)
 + [DDOS](https://sailsjs.com/documentation/concepts/security/ddos)
@@ -23,4 +22,3 @@ Learn about several different types of attacks that Node.js/Sails helps prevent 
 
 
 <docmeta name="displayName" value="Security">
-
